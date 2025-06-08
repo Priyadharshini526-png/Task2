@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  
+}
+
+.wrapper {
+  max-width: 400px;
+  margin: auto;
+  
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  padding: 8px;
+  font-size: 1rem;
+}
+
+#counter {
+  margin-top: 5px;
+  font-size: 0.9rem;
+}
+
+#warning {
+  margin-top: 5px;
+  color: red;
+  
+}
+
+.hidden {
+  display: none;
+}
+
